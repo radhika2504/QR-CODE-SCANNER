@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Radhika Singhal</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="stylee">[]</string>
+
+
+    <string name="bio">Hi, My name is Radhika
+    \n\nI love dancing
+    \n\nHow are you
+    \n\nWhat are you doing
+    \n\nWhat you want to become\n\n</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+</resources>
